@@ -1,0 +1,36 @@
+h1 {
+    background-color: #d4d7f7;
+    margin-left: 38px;
+    padding: 20px 0px 20px 0px;
+    color: #63473e;
+    font-family: papyrus;
+  }
+  h3{
+      color: #6b5f5b;
+      font-family: monospace;
+  }
+  p{
+      font-weight:700 ;
+      /* color: cursive; */ */
+  }
+  img {
+    float: left;
+    margin: 0px 10px 20px 0px;
+    background-color: #e2ccac;
+    padding: 10px;
+  }
+  li 
+  {
+    overflow: auto;
+    clear: both;
+    margin: 10px 0px 10px 0px;
+    background-color: #e8e9f7;
+  }
+  a {
+    display: block;
+  }
+  
+  a:hover {
+    color: green;
+    font-size: x-large;
+  }
